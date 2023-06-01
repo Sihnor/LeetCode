@@ -6,15 +6,15 @@ Each task I have worked on is stored in the specific folder as well as with a ma
 <details><summary>Easy Tasks</summary>
 <p>
 
-| Task | Solved | Description |
-|:--|:------------:|--|
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
+| Task |                    Description                    | Solved |
+|------|:-------------------------------------------------:|--------|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) |        |
+|      |                                                   |        |
+|      |                                                   |        |
+|      |                                                   |        |
+|      |                                                   |        |
+|      |                                                   |        |
+|      |                                                   |        |
 
 </p>
 </details>
@@ -23,14 +23,14 @@ Each task I have worked on is stored in the specific folder as well as with a ma
 <p>
 
 | Task | Solved | Description |
-|:--|:------------:|--|
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
-|   |              |  |
+|------|:------:|-------------|
+|      |        |             |
+|      |        |             |
+|      |        |             |
+|      |        |             |
+|      |        |             |
+|      |        |             |
+|      |        |             |
 
 </p>
 </details>
@@ -39,7 +39,7 @@ Each task I have worked on is stored in the specific folder as well as with a ma
 <p>
 
 | Task | Solved | Description |
-|:-----|:------:|-------------|
+|------|:------:|-------------|
 |      |        |             |
 |      |        |             |
 |      |        |             |
