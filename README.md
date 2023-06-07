@@ -39,15 +39,15 @@ Each task I have worked on is stored in the specific folder as well as with a ma
 <details><summary>Hard Tasks</summary>
 <p>
 
-| Task | Description |
-| ---- | :---------- |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
-|      |             |
+| Task | Description                                                                                           |
+| ---- | :---------------------------------------------------------------------------------------------------- |
+| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) |
+|      |                                                                                                       |
+|      |                                                                                                       |
+|      |                                                                                                       |
+|      |                                                                                                       |
+|      |                                                                                                       |
+|      |                                                                                                       |
 
 </p>
 </details>
