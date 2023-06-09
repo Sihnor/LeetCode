@@ -11,7 +11,7 @@ Each task I have worked on is stored in the specific folder as well as with a ma
 | ---- | :---------------------------------------------------------------------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |
-|      |                                                                         |
+| 0242 | [](Valid Anagram)                                                       |
 |      |                                                                         |
 |      |                                                                         |
 |      |                                                                         |
