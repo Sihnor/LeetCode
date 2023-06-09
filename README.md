@@ -7,15 +7,15 @@ Each task I have worked on is stored in the specific folder as well as with a ma
 <details><summary>Easy Tasks</summary>
 <p>
 
-| Task | Description                                       |
-| ---- | :------------------------------------------------ |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) |
-|      |                                                   |
-|      |                                                   |
-|      |                                                   |
-|      |                                                   |
-|      |                                                   |
-|      |                                                   |
+| Task | Description                                                             |
+| ---- | :---------------------------------------------------------------------- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |
+|      |                                                                         |
+|      |                                                                         |
+|      |                                                                         |
+|      |                                                                         |
+|      |                                                                         |
 
 </p>
 </details>
