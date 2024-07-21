@@ -3,9 +3,6 @@
 class Solution {
 public:
   int numberOfSteps(int num) {
-
-std::vector<int> temp = new std::vector();
-
     int steps = 0;
     while (num > 0) {
       if (num % 2 == 0) {
@@ -19,4 +16,3 @@ std::vector<int> temp = new std::vector();
     return steps;
   }
 };
-;
